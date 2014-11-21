@@ -1,4 +1,4 @@
-coding
+joysOfCoding -> [this is what it is](http://noviceapp.com/coding/)
 ======
 
 ![joysOfCoding](https://raw.githubusercontent.com/noviceapp-com/coding/master/images/Poster.png)
