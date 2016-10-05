@@ -1,7 +1,7 @@
-joysOfCoding -> [this is what it is](http://noviceapp.com/coding/)
+joysOfCoding -> [this is what it is](http://joys-of-coding.netlify.com/)
 ======
 
-![joysOfCoding](https://raw.githubusercontent.com/noviceapp-com/coding/master/images/Poster.png)
+[![joysOfCoding](https://raw.githubusercontent.com/noviceapp-com/coding/master/images/Poster.png)](http://joys-of-coding.netlify.com/)
 
 the joys of coding is an adobe edge animation.
 
